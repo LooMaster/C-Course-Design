@@ -1,4 +1,4 @@
-# C-Course-Design
+# C++_Course_Design
 C++课程设计原型
 
 
